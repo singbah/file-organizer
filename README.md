@@ -40,8 +40,8 @@ Instead of manually organizing downloaded files, this tool detects new files and
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd YOUR_REPOSITORY_NAME
+git clone git@github.com:singbah/file-organizer.git
+cd file-orgainzer
 ```
 
 Replace the placeholders with your actual GitHub repository URL and folder name.
